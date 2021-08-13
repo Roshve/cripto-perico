@@ -1,4 +1,4 @@
-# platzi-exchange
+# Cripto - Perico
 
 ## Project setup
 ```
