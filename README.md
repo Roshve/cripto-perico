@@ -1,4 +1,4 @@
-# Cripto - Perico
+# Cripto - Coin
 
 ## Project setup
 ```
